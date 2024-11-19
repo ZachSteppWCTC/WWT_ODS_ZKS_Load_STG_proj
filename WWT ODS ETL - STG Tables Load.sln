@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35208.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "WWT ODS ETL - STG Tables Load", "WWT ODS ETL - STG Tables Load\WWT ODS ETL - STG Tables Load.dtproj", "{0038BF91-A194-4D84-987C-67E1C5CC3721}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0038BF91-A194-4D84-987C-67E1C5CC3721}.Development|Default.ActiveCfg = Development
+		{0038BF91-A194-4D84-987C-67E1C5CC3721}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {108051FF-427D-4A2E-937F-2BF0AD5D9C1A}
+	EndGlobalSection
+EndGlobal
